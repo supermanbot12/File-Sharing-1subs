@@ -7,6 +7,6 @@
 
 ### **MINIMAL KALO FORK KASI BINTANG YA ANJG**
 
-### ***NOTES (FORK DULU KASIH BUTTON /LINK DEPLOY SENDIRI)***
-### CLONE DARI
-[CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
+## <p align="center">DEPLOY TO WEB HEROKU</p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/supermanbot12/Reyy-XFsub-Bot2">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Web-yellow?style=flat&logo=heroku" width="220" height="38.45" /></a></p>
